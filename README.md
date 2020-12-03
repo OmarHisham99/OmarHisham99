@@ -16,22 +16,22 @@
 
 ### Connect with me:
 
-[<img align="left" alt="moumen7 | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:ohisham413@gmail.com)
-[<img align="left" alt="moumen7 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/omar-hisham-5a21851b4/)
+[<img align="left" alt="OmarHisham99 | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:ohisham413@gmail.com)
+[<img align="left" alt="OmarHisham99 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/omar-hisham-5a21851b4/)
 </br>
 
 
 
 ### Projects
 
-  - Check out some of my projects:
+  - Check out some of my projects:[To-do list](https://github.com/OmarHisham99/To-do-list-app)-[Pacman Game](https://github.com/OmarHisham99/Pacman-Game)-[Ciphering System](https://github.com/OmarHisham99/Ciphering-System-)
 
 
 <br />
 
 [![Omar's github stats](https://github-readme-stats.vercel.app/api?username=OmarHisham99&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/OmarHisham99?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moumen7&layout=compact&theme=radical)](https://github.com/OmarHisham99?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHisham99&layout=compact&theme=radical)](https://github.com/OmarHisham99?tab=repositories)
 
 <!--
 *moumen7/a7medayman6* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
