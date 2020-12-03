@@ -24,7 +24,9 @@
 
 ### Projects
 
-  - Check out some of my projects:[To-do list](https://github.com/OmarHisham99/To-do-list-app)-[Pacman Game](https://github.com/OmarHisham99/Pacman-Game)-[Ciphering System](https://github.com/OmarHisham99/Ciphering-System-)
+  - Check out some of my projects:[To-do list](https://github.com/OmarHisham99/To-do-list-app)
+  -[Pacman Game](https://github.com/OmarHisham99/Pacman-Game)
+  -[Ciphering System](https://github.com/OmarHisham99/Ciphering-System-)
 
 
 <br />
