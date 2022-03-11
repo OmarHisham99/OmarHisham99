@@ -2,7 +2,7 @@
 
 ## Computer Science Student, passionate about Software development.
 
--   Third Year Computer Science Student at Ain Shams University.
+-   Fourth Year Computer Science Student at Ain Shams University.
 -   Strong Knowledge of Java and C++,Kotlin.
 -   Android Developing.
 -   Problem solving skills.
