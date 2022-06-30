@@ -2,9 +2,10 @@
 
 ## Computer Science Student, passionate about Software development.
 
--   Fourth Year Computer Science Student at Ain Shams University.
--   Strong Knowledge of Java and C++,Kotlin.
+-   Fresh Computer Science graduate from Ain Shams University.
+-   Strong Knowledge of Java,Kotlin, C++,C# and Javascript.
 -   Android Developing.
+-   Web Development
 -   Problem solving skills.
 -   proficiency with algorithms and data structures.
 -   good knowledge of OOP and design patterns.
