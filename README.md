@@ -1,8 +1,8 @@
 ### Hey there, I'm [Omar](https://github.com/OmarHisham99)! 👋
 
-## Computer Science Student, passionate about Software development.
+## Junior Software Developer, passionate about Software development.
 
--   Fresh Computer Science graduate from Ain Shams University.
+-   Junior Computer Science graduate from Ain Shams University.
 -   Strong Knowledge of Java,Kotlin, C++,C# and Javascript.
 -   Android Development.
 -   Web Development
