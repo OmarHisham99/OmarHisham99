@@ -2,10 +2,10 @@
 ![grid-snake](https://github.com/OmarHisham99/OmarHisham99/assets/52583910/65a900ab-67b3-466a-b33e-a5d9c173faee)
 
 
-## Junior Software Developer, passionate about Software development.
+## Software Developer, passionate about Software development.
 
 -   Junior Computer Science graduate from Ain Shams University.
--   Strong Knowledge of Java,Kotlin, C++,C# and Javascript.
+-   Strong Knowledge of Typescript, Java, Kotlin, C++, C#, and Javascript.
 -   Android Development.
 -   Web Development
 -   Problem solving skills.
