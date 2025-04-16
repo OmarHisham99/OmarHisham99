@@ -4,13 +4,12 @@
 
 ## Software Developer, passionate about Software development.
 
--   Junior Computer Science graduate from Ain Shams University.
--   Strong Knowledge of Typescript, Java, Kotlin, C++, C#, and Javascript.
--   Android Development.
+-   Computer Science graduate from Ain Shams University.
+-   Strong Knowledge of Typescript, Javascript, C#, C++, and Java.
 -   Web Development
--   Problem solving skills.
--   proficiency with algorithms and data structures.
--   good knowledge of OOP and design patterns.
+-   Problem-solving skills.
+-   Proficiency with algorithms and data structures.
+-   Good knowledge of OOP and design patterns.
 -   Lives in Cairo, Egypt.
 
 ### Languages:
@@ -20,17 +19,18 @@
 
 ### Connect with me:
 
-[<img align="left" alt="OmarHisham99 | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:ohisham413@gmail.com)
-[<img align="left" alt="OmarHisham99 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/omar-hisham-5a21851b4/)
+[<img align="left" alt="OmarHisham99 | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="background-color:white" />](mailto:ohisham413@gmail.com)
+[<img align="left" alt="OmarHisham99 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color:white" />](https://www.linkedin.com/in/omar-hisham-5a21851b4/)
 </br>
 
 
 
 ### Projects
 
-  - Check out some of my projects:[To-do list](https://github.com/OmarHisham99/To-do-list-app)
-  -[Pacman Game](https://github.com/OmarHisham99/Pacman-Game)
-  -[Ciphering System](https://github.com/OmarHisham99/Ciphering-System-)
+  - Check out some of my projects:
+  - [Zeta Website](https://zetaagency.org/en)
+  - [HelpTk Website](https://github.com/OmarHisham99/HelpTk)
+  - [Bosta Task](https://github.com/OmarHisham99/Bosta_task)
 
 
 <br />
